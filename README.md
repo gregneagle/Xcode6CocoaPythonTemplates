@@ -1,6 +1,6 @@
 **Xcode 6 Cocoa-Python Templates**
 
-This is a set of File templates and Project templates for use with Xcode 5. These have been tested with Xcode 5.1 on Mavericks.
+This is a set of File templates and Project templates for use with Xcode 6. These have been tested with Xcode 6.2 on Mavericks.
 
 Using the Xcode 3 templates here: http://svn.red-bean.com/pyobjc/trunk/pyobjc/pyobjc-xcode/ as a starting point, and also using the existing Xcode 4 templates as a reference, I ported the Xcode 3 templates to the Xcode 4 format.
 
